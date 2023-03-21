@@ -1,0 +1,19 @@
+{
+  "name": "cam-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "node-media-server": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
